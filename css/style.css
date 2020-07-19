@@ -262,7 +262,7 @@ a {
        }
     }
 
-    @media screen and (max-width: 570px) {
+    @media screen and (max-width: 360px) {
         .main .grid-videos{
             grid-template-columns: 1fr;
         }
